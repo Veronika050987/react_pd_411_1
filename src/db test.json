@@ -1,0 +1,63 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "pol": "male",
+      "age": 46,
+      "photo": "images/John.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "pol": "female",
+      "age": 31,
+      "photo": "images/Angela.jpg"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "pol": "male",
+      "age": 35,
+      "photo": "Alex.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "pol": "female",
+      "age": 33,
+      "photo": "images/Anna.jpg"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "pol": "male",
+      "age": 30,
+      "photo": "images/Michael.jpg"
+    }
+	,
+    {
+      "name": "Marina",
+      "surname": "Bartley",
+      "pol": "female",
+      "age": 23,
+      "photo": "images/Marina.jpg"
+    }
+	,
+    {
+      "name": "Amanda",
+      "surname": "Dixon",
+      "pol": "female",
+      "age": 23,
+      "photo": "images/Amanda.jpg"
+    }
+	,
+    {
+      "name": "Billy",
+      "surname": "Rosen",
+      "pol": "male",
+      "age": 30,
+      "photo": "images/Billy.jpg"
+    }
+  ]
+}
